@@ -63,12 +63,12 @@
     </g>
   </g>
 
-  <g transform="translate(742 168)">
+  <g transform="translate(694 168)">
     <circle cx="0" cy="0" r="7" fill="#2de38c" class="pulse"/>
     <text class="text" x="20" y="6">GasUndo</text>
     <circle cx="126" cy="0" r="7" fill="#f6c945" class="pulse"/>
     <text class="text" x="146" y="6">Aye Auto</text>
-    <circle cx="268" cy="0" r="7" fill="#ff6b4a" class="pulse"/>
-    <text class="text" x="288" y="6">Selectra</text>
+    <circle cx="264" cy="0" r="7" fill="#ff6b4a" class="pulse"/>
+    <text class="text" x="284" y="6">Selectra</text>
   </g>
 </svg>
