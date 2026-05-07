@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vaishakh3/noiceboard">Noiceboard</a>
+  <a href="https://github.com/vaishakh3/gasundo">GasUndo</a>
   ·
   <a href="https://github.com/vaishakh3/selectra">Selectra</a>
   ·
-  <a href="https://github.com/vaishakh3/domqa">DOM QA</a>
+  <a href="https://github.com/vaishakh3/ayeauto">Aye Auto</a>
   ·
-  <a href="https://github.com/vaishakh3/emomusic">Emomusic</a>
+  <a href="https://github.com/vaishakh3/matra">Matra</a>
 </p>
 
 <p align="center">
@@ -36,23 +36,18 @@ I like work that sits between **product polish** and **systems thinking**: inter
 
 | Project | Signal |
 | --- | --- |
-| [Noiceboard](https://github.com/vaishakh3/noiceboard) | An embeddable GitHub profile dashboard with generated SVG and refresh automation. |
-| [Selectra](https://github.com/vaishakh3/selectra) | Adaptive Interview Engine, multi-tenant interview intelligence. |
-| [DOM QA](https://github.com/vaishakh3/domqa) | Browser-facing QA experiments for checking interface behavior. |
-| [Emomusic](https://github.com/vaishakh3/emomusic) | Emotion-based music player. |
-| [Shazzam Outfits](https://github.com/vaishakh3/shazzam-outfits) | Visual-search-flavored outfit experiment. |
-| [Teleprompter](https://github.com/vaishakh3/teleprompter) | A focused utility surface for speaking, recording, and presenting. |
+| [GasUndo](https://github.com/vaishakh3/gasundo) | A Next.js PWA for crowd-reported restaurant availability during the Kerala LPG shortage, with maps, auth, Supabase, Redis rate limits, and analytics. |
+| [Aye Auto](https://github.com/vaishakh3/ayeauto) | A Kerala auto-rickshaw fare planner and live meter PWA with configurable fare rules. |
+| [Selectra](https://github.com/vaishakh3/selectra) | Multi-tenant interview infrastructure with adaptive question generation, live coding, interviewer copilot guidance, and decision-ready reports. |
+| [Shazzam Outfits](https://github.com/vaishakh3/shazzam-outfits) | Privacy-first visual fashion search: on-device face masking, YOLO clothing detection, OpenCLIP embeddings, and FAISS similarity search. |
+| [Matra](https://github.com/vaishakh3/matra) | Natural-language math animation generator using LLM-generated Manim code and in-browser playback. |
+| [Placex](https://github.com/vaishakh3/placexrouted) | Campus placement readiness platform with AI mock interviews, aptitude practice, mentoring, resume tools, and job insights. |
 
-## Operating Notes
+## Working Style
 
-```ts
-const vaishakh = {
-  mode: "ship the useful thing",
-  taste: ["quiet interfaces", "sharp automation", "good names"],
-  stack: ["typescript", "javascript", "python", "css"],
-  currentQuestion: "How do we make this simpler without making it smaller?"
-};
-```
+- Start with the real user moment, then pick the smallest useful system around it.
+- Prefer quiet interfaces, explicit flows, and automation that removes repeated work.
+- Keep asking: can this be simpler without becoming smaller?
 
 ## Find Me Here
 
